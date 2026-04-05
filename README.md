@@ -3,84 +3,84 @@
 [![Promo](https://github.com/bright-jp/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/cn/beijing) 
 
 ## 概要
-Bright Dataの[北京プロキシ](https://brightdata.jp/locations/cn/beijing)でシームレスなスクレイピングをご体験ください。精密なターゲティング、比類のない安定性、そして高速なレスポンス時間を実現するよう設計されています。北京からWebサイトのスクレイピングを開始し、二度とブロックされないようにしましょう。
+正確なターゲティング、比類のない安定性、高速なレスポンスタイムを提供するよう設計されたBright Dataの[北京プロキシ](https://brightdata.jp/locations/cn/beijing)で、シームレスなスクレイピングを体験してください。北京からWebサイトのスクレイピングを開始し、もうブロックされることはありません。
 
-- **40K 北京プロキシIP**
-- **スティッキーおよびローテーティングセッション**
+- **40Kの北京プロキシIP**
+- **Stickyセッションとローテーションセッション**
 - **99.95%の成功率**
 - **HTTP(S) & SOCKS5対応**
-- **都市、州、ZIPコードレベルのターゲティング（無料）**
+- **都市、州、ZIP codeレベルのターゲティング（無料）**
 
-## 主な特長
-- **高い成功率**: スクレイピングプロジェクトで最大99.95%の成功率を実現できます。
-- **高速レスポンス**: 平均レスポンス時間は約0.7秒です。
-- **倫理的なソース**: すべてのプロキシは、明示的なユーザー同意に基づいて提供されています。
-- **同時接続セッション無制限**: 制限なく運用をスケールできます。
+## 主な機能
+- **高い成功率**: スクレイピングプロジェクトで最大99.95%の成功率を実現します。
+- **高速レスポンス**: 平均レスポンスタイムは約0.7秒です。
+- **倫理的に調達**: すべてのプロキシは、ユーザーの明示的な同意を得て調達されています。
+- **無制限の同時セッション**: 制限なくオペレーションをスケールできます。
 
 ## 北京プロキシの種類
 
-**[**レジデンシャルプロキシ**](https://brightdata.jp/proxy-types/residential-proxies)** - 業界最速のレジデンシャルプロキシで、手間なくスクレイピングを行えます。正確なターゲティングと比類のない信頼性をご活用ください。
+**[**Residential proxies**](https://brightdata.jp/proxy-types/residential-proxies)** - 業界最速のResidential proxiesで、手間のないスクレイピングを実現します。正確なターゲティングと比類のない信頼性を活用してください。
   
 - **HTTP(S)/ & SOCKS5対応**
 - **グローバルカスタマーサポート**
 
-**[**データセンタープロキシ**](https://brightdata.jp/proxy-types/datacenter-proxies)** - 最速かつ最も信頼性の高いデータセンターIPプールを使用して、匿名のデータ収集を容易にスケールできます。
+**[**Datacenter proxies**](https://brightdata.jp/proxy-types/datacenter-proxies)** - 最速かつ最も信頼性の高いdatacenter IPプールを使用して、匿名データ収集を簡単にスケールできます。
 
 - **0.24秒のresonse time**
-- **IP単位または帯域幅使用量に応じた課金**
+- **Pay-Per-IPまたは帯域幅使用量**
 
-**[**ISPプロキシ**](https://brightdata.jp/proxy-types/isp-proxies)** - 生涯保持できる最高品質のスタティックレジデンシャルプロキシです。
+**[**ISP proxies**](https://brightdata.jp/proxy-types/isp-proxies)** - 生涯保持できる最高品質の静的Residential proxiesです。
   
-- **IP単位または帯域幅使用量に応じた課金**
-- **業界最速のレスポンス時間**
+- **Pay-per-IPまたは帯域幅使用量ベース**
+- **業界最速のレスポンスタイム**
 
-**[**モバイルプロキシ**](https://brightdata.jp/proxy-types/mobile-proxies)** - 世界中のモバイルIPで、実際のモバイルユーザーと同じようにWebを閲覧できます。
+**[**Mobile proxies**](https://brightdata.jp/proxy-types/mobile-proxies)** - 世界中のmobile IPを使って、実際のモバイルユーザーのようにWebを閲覧できます。
   
-- **3G/4G/5GモバイルIP**
-- **24/7グローバルサポート**
+- **3G/4G/5G mobile IP**
+- **24時間365日のグローバルサポート**
 
 [![Promo](https://github.com/bright-jp/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/th) 
 
 ## Bright Dataの北京プロキシの始め方
 1. **無料トライアルを開始**: クレジットカードは不要です。
-2. **連携**: APIまたはControl Panelを使用して、IPおよび設定を管理します。
-3. **対応言語**: Python、Java、C#、Node.js、Shell向けのクイックスタート例を提供しています。
+2. **統合**: APIまたはControl Panelを使用して、IPと設定を管理します。
+3. **対応言語**: Python、Java、C#、Node.js、Shell向けのクイックスタート例を用意しています。
 
-## 連携
-北京プロキシは、以下を含む一般的なツールやフレームワークと連携できます。
+## 統合
+当社の北京プロキシは、以下を含む一般的なツールやフレームワークと統合できます。
 
 - [**Puppeteer**](https://brightdata.jp/integration/puppeteer)
 - [**Selenium**](https://brightdata.jp/integration/selenium)
 - [**Playwright**](https://brightdata.jp/integration/playwright)
 - [**AdsPower**](https://brightdata.jp/integration/adspower)
 - [**MultiLogin**](https://brightdata.jp/integration/multilogin)
-- [**すべてのプロキシ連携**](https://brightdata.jp/integration)
+- [**すべてのプロキシ統合**](https://brightdata.jp/integration)
 
 ## 人気のユースケース
-企業が北京プロキシをどのように活用しているかをご確認ください。
+企業が北京プロキシをどのように活用しているかをご覧ください。
 
 - [**eCommerce**](https://brightdata.jp/use-cases/ecommerce): 価格とレビューを追跡します。
-- [**ソーシャルメディア**](https://brightdata.jp/use-cases/social-media-for-marketing): トレンドを監視します。
-- [**不動産**](https://brightdata.jp/use-cases/real-estate): 市場データを収集します。
-- [**旅行**](https://brightdata.jp/use-cases/travel): 地域間で価格を比較します。
-- [**金融サービス**](https://brightdata.jp/use-cases/financial): 安全にトレンドを分析します。
+- [**Social Media**](https://brightdata.jp/use-cases/social-media-for-marketing): トレンドを監視します。
+- [**Real Estate**](https://brightdata.jp/use-cases/real-estate): 市場データを収集します。
+- [**Travel**](https://brightdata.jp/use-cases/travel): 地域ごとの価格を比較します。
+- [**Financial Services**](https://brightdata.jp/use-cases/financial): 安全にトレンドを分析します。
 
 ## FAQ
 
 ### 北京プロキシサーバーとは何ですか？
-北京プロキシサーバーとは、北京に設置されたサーバーであり、お使いのデバイスとインターネットの間で仲介役として機能します。匿名性を提供し、制限やブロックの回避を支援し、Webコンテンツのスクレイピングを可能にし、コンテンツフィルタリングポリシーを適用します。
+北京プロキシサーバーとは、北京に拠点を置き、あなたのデバイスとインターネットの間の仲介役として機能するサーバーです。匿名性を提供し、制限やブロックの回避を支援し、Webコンテンツのスクレイピングを可能にし、コンテンツフィルタリングポリシーを適用します。
 
-### 北京全域でZIPコードをターゲットにできますか？
-はい、北京のZIPコードレベルのターゲティングを使用してIPを選択できます。Bright Dataは都市および州レベルのプロキシターゲティングも提供しています。
+### 北京全域のZIP codeをターゲティングできますか？
+はい、北京のzip codeレベルのターゲティングを使用してIPを選択できます。Bright Dataは都市および州レベルのプロキシターゲティングも提供しています。
 
 ### どのようなプランがありますか？ 
 Bright Dataは、以下を含む柔軟な料金モデルを提供しています。
 
-- **従量課金（Pay-As-You-Go）**: 1GBあたりの固定料金です。
-- **サブスクリプションプラン**: 月次、年次、カスタムオプションです。
+- **Pay-As-You-Go**: GBごとの固定料金。
+- **Subscription Plans**: 月額、年額、カスタムオプション。
 
 ### Bright Dataの北京プロキシはコンプライアンスに準拠しており、安全に使用できますか？
-Bright Dataのプロキシは倫理的に提供されており、GDPRおよびCCPAを含む関連するすべてのデータ保護法に準拠しています。
+Bright Dataのプロキシは倫理的に調達されており、GDPRやCCPAを含む関連するすべてのデータ保護法に準拠しています。
 
-### 専任サポートは利用できますか？
-専任サポートチームが24/7でお手伝いします。お問い合わせのうえ、お客様のニーズについてご相談いただき、Dedicated proxy networkのメリットを最大化してください。
+### 専用サポートは利用できますか？
+専任のサポートチームが24時間365日対応し、お客様を支援します。お客様のニーズについてご相談いただき、Dedicated proxy networkのメリットを最大限に活用してください。
